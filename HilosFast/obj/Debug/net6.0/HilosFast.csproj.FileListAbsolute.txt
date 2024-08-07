@@ -1,0 +1,14 @@
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\bin\Debug\net6.0\HilosFast.exe
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\bin\Debug\net6.0\HilosFast.deps.json
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\bin\Debug\net6.0\HilosFast.runtimeconfig.json
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\bin\Debug\net6.0\HilosFast.dll
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\bin\Debug\net6.0\HilosFast.pdb
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.AssemblyInfoInputs.cache
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.AssemblyInfo.cs
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.csproj.CoreCompileInputs.cache
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.dll
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\refint\HilosFast.dll
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.pdb
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\HilosFast.genruntimeconfig.cache
+C:\Users\valsisdes1\Source\repos\HilosFast\HilosFast\obj\Debug\net6.0\ref\HilosFast.dll
